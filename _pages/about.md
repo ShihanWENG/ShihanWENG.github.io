@@ -7,4 +7,12 @@ redirect_from:
 ---
 
 <h1>Welcome to Shihan's Homepage!</h1>
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am currently a Ph.D. student in Statistics at the School of Economics and Management, University of Chinese Academy of Sciences (UCAS), where I expect to complete my degree in 2030.
+
+My research interests broadly encompass two main areas: Econometric Theory and Applied Development Economics.
+
+On the theoretical side, I focus on bridging Extreme Value Theory (EVT) with applied econometrics. Specifically, I am developing methods to estimate treatment effects at extremal quantiles by integrating EVT with modern causal inference frameworks, such as Difference-in-Differences (DID). My work aims to provide robust tools for revealing heterogeneous treatment effects that are often overlooked in central tendency analyses.
+
+On the applied side, I investigate the dynamics, causes, and policy implications of inequality in the developing world. I have a particular interest in gender economics. My current research examines why gender gaps persist in developing countries and how they are unintentionally shaped by non-gender-targeted policies.
+
+I am open to academic discussion and potential collaboration. Please feel free to reach out to me via wengshihan24@mails.ucas.ac.cn.
