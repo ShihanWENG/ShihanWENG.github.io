@@ -15,4 +15,4 @@ On the theoretical side, I focus on applying Extreme Value Theory (EVT) to appli
 
 On the applied side, I investigate the dynamics, causes, and policy implications of inequality in the developing world. I have a particular interest in gender economics. My current research examines why gender gaps persist in developing countries and how they are unintentionally shaped by non-gender-targeted policies.
 
-I am open to academic discussion and potential collaboration. Please feel free to reach out to me via [wengshihan24@mails.ucas.ac.cn](mailto:wengshihan24@mails.ucas.ac.cn).
+I am open to academic discussion and potential collaboration. Please feel free to reach out to me via [wengshihan24@mails.ucas.ac.cn](mailto:wengshihan24@mails.ucas.ac.cn) or [shineweng555@gmail.com](mailto:shineweng555@gmail.com).
