@@ -11,7 +11,7 @@ I am currently a Ph.D. student in Statistics at the School of Economics and Mana
 
 My research interests broadly encompass two main areas: Econometric Theory and Applied Development Economics.
 
-On the theoretical side, I focus on bridging Extreme Value Theory (EVT) with applied econometrics. Specifically, I am developing methods to estimate treatment effects at extremal quantiles by integrating EVT with modern causal inference frameworks, such as Difference-in-Differences (DID). My work aims to provide robust tools for revealing heterogeneous treatment effects that are often overlooked in central tendency analyses.
+On the theoretical side, I focus on applying Extreme Value Theory (EVT) to applied econometrics. Specifically, I am developing methods to estimate treatment effects at extremal quantiles by integrating EVT with modern causal inference frameworks, such as Difference-in-Differences (DiD). My work aims to provide robust tools for revealing heterogeneous treatment effects that are often overlooked in central tendency analyses.
 
 On the applied side, I investigate the dynamics, causes, and policy implications of inequality in the developing world. I have a particular interest in gender economics. My current research examines why gender gaps persist in developing countries and how they are unintentionally shaped by non-gender-targeted policies.
 
