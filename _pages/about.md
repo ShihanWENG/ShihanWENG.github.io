@@ -9,7 +9,7 @@ redirect_from:
 <h1>Welcome to Shihan's Homepage!</h1>
 I am currently a Ph.D. student in Statistics at the School of Economics and Management, University of Chinese Academy of Sciences (UCAS), where I expect to complete my degree in 2030.
 
-My research interests encompass two main areas: <b>Econometric Theory<b> and <b>Applied Development Economics<b>.
+My research interests encompass two main areas: <b>Econometric Theory</b> and <b>Applied Development Economics</b>..
 
 On the theoretical side, I focus on applying Extreme Value Theory (EVT) to applied econometrics. Specifically, I am developing methods to estimate treatment effects at extremal quantiles by integrating EVT with modern causal inference frameworks, such as Difference-in-Differences (DiD). My work aims to provide robust tools for revealing heterogeneous treatment effects that are often overlooked in central tendency analyses.
 
