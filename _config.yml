@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate at the School of Economics and Management, University of Chinese Academy of Sciences (UCAS)"
   location         : "Beijing, China"
-  employer         : "<a href='https://www.ucas.edu.cn/' target='_blank' style='display: inline-block;'>UCAS</a>"
+  employer         : "<a href='https://www.ucas.edu.cn/' target='_blank' style='display: inline !important;'>UCAS</a>"
   uri              : "https://shihanweng.github.io"
   email            : "wengshihan24@mails.ucas.ac.cn" 
 
